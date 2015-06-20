@@ -1,2 +1,2 @@
 # Sunshine-App
-Udacity sunshine app
+Sunshine | An Android App | Weather Forcasting App 
